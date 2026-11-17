@@ -1,14 +1,7 @@
 # CCM Computing Courses Entry Survey — Exploratory Data Analysis
 
-## Overview & Purpose
-This repository houses Project 1 for **CMP-262: Data Science Programming** at the County College of Morris (CCM). 
-
 The primary goal of this project is to perform an **Exploratory Data Analysis (EDA)** on entry-level computing course survey datasets using Python. By uncovering patterns in student demographics, outreach effectiveness, pre-college experiences, and enrollment motivations, this study provides actionable, data-driven recommendations to help the **CCM Department of Information Technologies** improve its recruitment strategies and increase student enrollment—particularly among underrepresented groups.
 
----
-
-## Project Workflow & Structure
-This project follows a structured four-part Data Science and EDA lifecycle:
 
 ### 1. Data Study Questions (Part 1)
 * Formulated targeted, answerable data science questions focused on **which**, **when**, **where**, and **why** students enroll in entry-level computing courses.
@@ -29,8 +22,6 @@ This project follows a structured four-part Data Science and EDA lifecycle:
 
 ### 4. Peer Review & Plot Refinement (Part 4)
 * Shared visualizations and analytical findings in class discussion forums to gather peer feedback and refine plot clarity, color accessibility, and storytelling impact.
-
----
 
 ## Key Findings & Recommendations
 * **Demographic Gaps:** Women represent **16.8%** of students in entry-level computing courses, while traditional college-age students (18–20) account for over **70%** of enrollment. Targeted recruitment efforts should focus on expanding female and non-traditional adult participation.
